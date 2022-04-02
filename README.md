@@ -172,9 +172,9 @@ Par défaut, toutes personnes connectés ont la possibilité d'effectuer des mod
 <!-- CONTACT -->
 ## Contact
 
-Romain Ramanzin - [@Romain-Ramanzin](https://www.linkedin.com/in/romain-ramanzin-051698202/) - romain.ramanzin@gmail.com
+Sinan Yazici -- sinanyzc27200@hotmail.com
 
-Lien du projet : [https://github.com/RomainRamanzin/Projet_Comeleon](https://github.com/RomainRamanzin/Projet_Comeleon)
+Lien du projet : [https://github.com/sinan-yazici/Ap-comeleon](https://github.com/sinan-yazici/Ap-comeleon)
 
 <p align="right">(<a href="#top">Retour en haut</a>)</p>
 
